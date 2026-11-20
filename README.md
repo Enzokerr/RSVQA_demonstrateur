@@ -196,7 +196,7 @@ RSVQA/
 |---|
 | [Kerroumi Enzo](https://github.com/Enzokerr) |
 | [Sekhri Massin](https://github.com/...) |
-| [Ouaret Anis](https://github.com/...) |
+| [Ouaret Anis](https://github.com/Anis843) |
 | [Izerkhef Rayan](https://github.com/...) |
 | … |
 
