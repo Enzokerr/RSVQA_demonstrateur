@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+
+# Datasets (trop volumineux, à télécharger séparément : voir README)
+Backend/datasets/*
+!Backend/datasets/.gitkeep
+
+# Divers
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

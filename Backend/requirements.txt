@@ -1,0 +1,15 @@
+# API
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+pydantic>=2.0
+
+# Modèles (PaliGemma RSVQA + BLIP)
+torch>=2.6
+torchvision
+transformers>=4.45,<5
+huggingface_hub
+accelerate
+sentencepiece
+protobuf
+Pillow

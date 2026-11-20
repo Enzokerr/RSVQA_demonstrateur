@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primaryWhite: #e6eaf2;
+  --color-primaryGray: #aab2c5;
+  --color-primaryBlue: #4da3ff;
+  --color-primaryDarkBlue: #1f2a44;
+  --color-primaryBlack: #141a2e;
+  --color-blueGray: #94a3b8;
+}
+/* Style de la barre de scroll */
+
+body {
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.scroll-custom::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scroll-custom::-webkit-scrollbar-track {
+  background: transparent; /* Permet de mettre le fond de la barre de scroll transparent (plus esthétique) */
+}
+
+.scroll-custom::-webkit-scrollbar-thumb {
+  background: rgba(18, 92, 172, 0.4);
+  border-radius: 10px;
+}
+
+.scroll-custom::-webkit-scrollbar-thumb:hover {
+  /* survol*/
+  background: rgba(151, 200, 253, 0.8);
+}
