@@ -28,6 +28,10 @@ Projet réalisé en équipe dans le cadre de la **Licence 2 Informatique** (2025
 - **Interface de chat** pour enchaîner les questions sur une image.
 - **Page de documentation** sur la RSVQA, avec liens vers les jeux de données et les articles.
 
+## Demonstration
+
+https://github.com/user-attachments/assets/5a4508b5-c3eb-44c3-b501-1606caaed2ba
+
 ## Architecture
 
 ```
