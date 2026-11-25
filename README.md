@@ -195,7 +195,7 @@ RSVQA/
 | Membre |
 |---|
 | [Kerroumi Enzo](https://github.com/Enzokerr) |
-| [Sekhri Massin](https://github.com/...) |
+| [Sekhri Massin](https://github.com/Massin-SEKHRI) |
 | [Ouaret Anis](https://github.com/Anis843) |
 | [Izerkhef Rayan](https://github.com/...) |
 | … |
